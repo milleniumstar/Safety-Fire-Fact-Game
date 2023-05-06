@@ -287,7 +287,6 @@ Engine:DevOptions.Shaders:bLogJobCompletionTimes:0=False
 Engine:DevOptions.Shaders:ProcessGameThreadTargetTime:0=.01
 Engine:DevOptions.Shaders:WorkerTimeToLive:0=20
 Engine:DevOptions.Shaders:BuildWorkerTimeToLive:0=1200
-Engine:DevOptions.Shaders:WorkerProcessPriority:0=-1
 Engine:DevOptions.Shaders:bForceUseSCWMemoryPressureLimits:0=False
 Engine:LogFiles:PurgeLogsDays:0=5
 Engine:LogFiles:MaxLogFilesOnDisk:0=10
@@ -518,51 +517,6 @@ Engine:/Script/HardwareTargeting.HardwareTargetingSettings:TargetedHardwareClass
 Engine:/Script/HardwareTargeting.HardwareTargetingSettings:AppliedTargetedHardwareClass:0=Desktop
 Engine:/Script/HardwareTargeting.HardwareTargetingSettings:DefaultGraphicsPerformance:0=Maximum
 Engine:/Script/HardwareTargeting.HardwareTargetingSettings:AppliedDefaultGraphicsPerformance:0=Maximum
-<<<<<<< Updated upstream
-=======
-Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Shipping
-Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
-Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
-Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
-Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
-Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
-Game:/Script/UnrealEd.ProjectPackagingSettings:bIncludeNativizedAssetsInProjectGeneration:0=False
-Game:/Script/UnrealEd.ProjectPackagingSettings:bExcludeMonolithicEngineHeadersInNativizedCode:0=False
-Game:/Script/UnrealEd.ProjectPackagingSettings:bUseIoStore:0=False
-Game:/Script/UnrealEd.ProjectPackagingSettings:bMakeBinaryConfig:0=False
-Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateNoChunks:0=False
-Game:/Script/UnrealEd.ProjectPackagingSettings:bForceOneChunkPerFile:0=False
-Game:/Script/UnrealEd.ProjectPackagingSettings:MaxChunkSize:0=0
-Game:/Script/UnrealEd.ProjectPackagingSettings:bBuildHttpChunkInstallData:0=False
-Game:/Script/UnrealEd.ProjectPackagingSettings:HttpChunkInstallDataDirectory:0=(Path="")
-Game:/Script/UnrealEd.ProjectPackagingSettings:HttpChunkInstallDataVersion:0=
-Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeAppLocalPrerequisites:0=False
-Game:/Script/UnrealEd.ProjectPackagingSettings:bDeterministicShaderCodeOrder:0=False
-Game:/Script/UnrealEd.ProjectPackagingSettings:ApplocalPrerequisitesDirectory:0=(Path="")
-Game:/Script/UnrealEd.ProjectPackagingSettings:LocalizationTargetCatchAllChunkId:0=0
-Game:/Script/UnrealEd.ProjectPackagingSettings:bCookAll:0=False
-Game:/Script/UnrealEd.ProjectPackagingSettings:bCookMapsOnly:0=False
-Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/P4/New folder (3)/Project_P4/New folder (2)")
-Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=False
-Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
-Game:/Script/UnrealEd.ProjectPackagingSettings:bCompressed:0=True
-Game:/Script/UnrealEd.ProjectPackagingSettings:PakFileCompressionFormats:0=Oodle
-Game:/Script/UnrealEd.ProjectPackagingSettings:PakFileAdditionalCompressionOptions:0=-compressionblocksize=256KB
-Game:/Script/UnrealEd.ProjectPackagingSettings:PakFileCompressionMethod:0=Kraken
-Game:/Script/UnrealEd.ProjectPackagingSettings:PakFileCompressionLevel_Distribution:0=7
-Game:/Script/UnrealEd.ProjectPackagingSettings:PakFileCompressionLevel_TestShipping:0=5
-Game:/Script/UnrealEd.ProjectPackagingSettings:PakFileCompressionLevel_DebugDevelopment:0=3
-Game:/Script/UnrealEd.ProjectPackagingSettings:bForceUseProjectCompressionFormatIgnoreHardwareOverride:0=False
-Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
-Game:/Script/UnrealEd.ProjectPackagingSettings:bChunkHardReferencesOnly:0=False
-Game:/Script/UnrealEd.ProjectPackagingSettings:IncludePrerequisites:0=True
-Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeCrashReporter:0=False
-Game:/Script/UnrealEd.ProjectPackagingSettings:InternationalizationPreset:0=English
-Game:/Script/UnrealEd.ProjectPackagingSettings:bSkipEditorContent:0=false
-Game:/Script/UnrealEd.ProjectPackagingSettings:bSharedMaterialNativeLibraries:0=True
-Game:/Script/UnrealEd.ProjectPackagingSettings:bShareMaterialShaderCode:0=True
-Game:/Script/UnrealEd.ProjectPackagingSettings:bSkipMovies:0=False
->>>>>>> Stashed changes
 Game:Internationalization:LocalizationPaths:0=%GAMEDIR%Content/Localization/Game
 Game:/Script/Engine.GameNetworkManager:TotalNetBandwidth:0=32000
 Game:/Script/Engine.GameNetworkManager:MaxDynamicBandwidth:0=7000
@@ -602,7 +556,7 @@ Game:/Script/EngineSettings.GeneralProjectSettings:CopyrightNotice:0=Fill out yo
 Game:/Script/EngineSettings.GeneralProjectSettings:Description:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:LicensingTerms:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:PrivacyPolicy:0=
-Game:/Script/EngineSettings.GeneralProjectSettings:ProjectName:0=2D Side Scroller Game Blueprint Template
+Game:/Script/EngineSettings.GeneralProjectSettings:ProjectName:0=Safety Fire Fact
 Game:/Script/EngineSettings.GeneralProjectSettings:ProjectVersion:0=1.0.0.0
 Game:/Script/EngineSettings.GeneralProjectSettings:Homepage:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:SupportContact:0=
